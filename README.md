@@ -1,10 +1,10 @@
 <h1 align="center">
   <br>PokeDex - Java</h1>
 
-<a id="en-readme"></a>
-## English | [Português](#pt-readme)
+<a id="pt-readme"></a>
+## [English](#en-readme) | Português
 
-Olá, este repositório contém uma aplicação Java desenvolvida que utiliza a API [PokéApi]"https://pokeapi.co/" para a busca e transporte de dados JSON.
+Olá, este repositório contém uma aplicação Java desenvolvida que utiliza a API [PokéApi](https://pokeapi.co/) para a busca e transporte de dados JSON.
 
 
 ## Dados recuperados da API
@@ -19,19 +19,19 @@ Para rodar os códigos é necessária uma IDE Java como o **VSCODE, Eclipse** ba
 
 ## Websites úteis
 
-http://jsonviewer.stack.hu/
-https://stackoverflow.com/questions/5762491/how-to-print-color-in-console-using-system-out-println
+- http://jsonviewer.stack.hu/
+- https://stackoverflow.com/questions/5762491/how-to-print-color-in-console-using-system-out-println
 
 
 ✨ Obrigada pela atenção! ✨
 
 -------
 
-<a id="pt-readme"></a>
-## [English](#en-readme) | Português
+<a id="en-readme"></a>
+## English | [Português](#pt-readme)
 
 
-Hi, nice to see you around! This repository contain a Java Application develped using the API [PokéApi]"https://pokeapi.co/" for the search and transport of data using JSON protocol.
+Hi, nice to see you around! This repository contain a Java Application develped using the API [PokéApi](https://pokeapi.co/) for the search and transport of data using JSON protocol.
 
 
 ## Data rescued from the API 
@@ -46,8 +46,8 @@ To run the codes you need a Java IDE such as **VSCODE, Eclipse**   just sownload
 
 ## Useful websites
 
-http://jsonviewer.stack.hu/
-https://stackoverflow.com/questions/5762491/how-to-print-color-in-console-using-system-out-println
+- http://jsonviewer.stack.hu/
+- https://stackoverflow.com/questions/5762491/how-to-print-color-in-console-using-system-out-println
 
 ✨ Thanks for your attention! ✨
 
